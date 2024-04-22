@@ -1,2 +1,1 @@
 Get started
-gid a
